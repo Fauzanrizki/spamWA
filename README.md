@@ -1,0 +1,2 @@
+# spamWA
+* Spam autoclik whatsapp
